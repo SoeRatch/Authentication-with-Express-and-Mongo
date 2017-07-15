@@ -1,12 +1,11 @@
 # User-Authentication-with-Express-and-Mongo
 
-#To download
+# To download
 
-Clone the repository with git clone https://github.com/SoeRatch/User-Authentication-with-Express-and-Mongo.git
-
+Clone the repository with git clone https://github.com/SoeRatch/Authentication-with-Express-and-Mongo.git
 cd into the directory cd User-Authentication-with-Express-and-Mongo
 
-#To run
+# To run
 
 first install the required dependencies with 
 -> npm install
