@@ -17,4 +17,4 @@ then run the two servers with
 
 then view http://localhost:3000/ in your browser
 
-source of project : www.treehouse.com
+source of learning : www.treehouse.com
